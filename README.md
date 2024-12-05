@@ -58,6 +58,7 @@ This will directly configure and allow to compile all specified plugins from SOF
 
 ### 3. Install Touch Driver and Software
 Driver and Software files are in [Driver and Software](https://github.com/nc-yc/sofa_cell_micromanipulation/tree/main/src)
+
 <img src="./src/touch.jpg" alt="SOFA, Simulation Open-Framework Architecture" width="400" height="auto">
 
 ### 4. Run commands
