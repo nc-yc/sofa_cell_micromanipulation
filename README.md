@@ -1,5 +1,5 @@
 # sofa_cell_micromanipulation
-This is a simulation scene for robotic cell micromanipulation with Force Feedback based on [Sofa](https://github.com/sofa-framework/sofa)
+This is a simulation scene for robotic cell micromanipulation with Force Feedback based on [Sofa](https://github.com/sofa-framework/sofa) and [Geomagic]([https://github.com/sofa-framework/sofa/tree/master/applications/plugins/Geomagic](https://www.sofa-framework.org/applications/plugins/geomagic-haptics/))
 <img src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto">
 
 
@@ -72,8 +72,8 @@ sudo ./runSofa
 
 ### TO DO
 
-Reinforcement learning API
-Sofa Tearing 
+[] Reinforcement learning API
+[] Integration with [Sofa Tearing]([https://www.sofa-framework.org/applications/plugins/tearing/](https://www.sofa-framework.org/applications/plugins/tearing/)) for dexterous robot cell manipulation
 
 
 
