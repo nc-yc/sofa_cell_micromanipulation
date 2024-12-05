@@ -72,8 +72,8 @@ sudo ./runSofa
 
 ### TO DO
 
-[] Reinforcement learning API
-[] Integration with [Sofa Tearing]([https://www.sofa-framework.org/applications/plugins/tearing/](https://www.sofa-framework.org/applications/plugins/tearing/)) for dexterous robot cell manipulation
+- [] Reinforcement learning API
+- [] Integration with [Sofa Tearing]([https://www.sofa-framework.org/applications/plugins/tearing/](https://www.sofa-framework.org/applications/plugins/tearing/)) for dexterous robot cell manipulation
 
 
 
