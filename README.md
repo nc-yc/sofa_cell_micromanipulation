@@ -1,7 +1,28 @@
 # sofa_cell_micromanipulation
 this is a simulation scene for robotic cell micromanipulation
 
+<table align=center>
 
+  <tr align=center>
+    <td>
+      <img src="./scene/1.gif" alt="First GIF" style="width: 100%;"/>
+    </td>
+    <td>
+      <img src="./scene/2.gif" alt="3 GIF" style="width: 100%;"/>
+    </td>
+  </tr>
+
+
+  <tr align=center>
+    <td>
+      demo1
+    </td>
+    <td>
+      demo2
+    </td>
+  </tr>
+
+</table>
 
 
 ### 1.build sofa platform
@@ -26,25 +47,4 @@ cd ~/sofa/build/bin
 sudo ./runSofa
 ```
 
-<table align=center>
 
-  <tr align=center>
-    <td>
-      <img src="./scene/1.gif" alt="First GIF" style="width: 100%;"/>
-    </td>
-    <td>
-      <img src="./scene/2.gif" alt="3 GIF" style="width: 100%;"/>
-    </td>
-  </tr>
-
-
-  <tr align=center>
-    <td>
-      demo1
-    </td>
-    <td>
-      demo2
-    </td>
-  </tr>
-
-</table>
