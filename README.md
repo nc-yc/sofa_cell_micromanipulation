@@ -1,5 +1,5 @@
 # sofa_cell_micromanipulation
-This is a simulation scene for robotic cell micromanipulation with Force Feedback based on [Sofa](https://github.com/sofa-framework/sofa) <img src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto"> and [Geomagic]([https://github.com/sofa-framework/sofa/tree/master/applications/plugins/Geomagic](https://www.sofa-framework.org/applications/plugins/geomagic-haptics/)) <img src="https://www.sofa-framework.org/wp-content/uploads/2016/06/DSC01284-s.jpg" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto">
+This is a simulation scene for robotic cell micromanipulation with Force Feedback based on [Sofa](https://github.com/sofa-framework/sofa) <img src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto"> and [Geomagic](https://www.sofa-framework.org/applications/plugins/geomagic-haptics/) <img src="https://www.sofa-framework.org/wp-content/uploads/2016/06/DSC01284-s.jpg" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto">
 
 
 
