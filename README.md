@@ -1,6 +1,6 @@
 # sofa_cell_micromanipulation
 This is a simulation scene for robotic cell micromanipulation based on [Sofa](https://github.com/sofa-framework/sofa)
-<img src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" alt="SOFA, Simulation Open-Framework Architecture" width="300" height="auto">
+<img src="https://www.sofa-framework.org/wp-content/uploads/2013/01/SOFA_LOGO_ORANGE_2-normal.png" alt="SOFA, Simulation Open-Framework Architecture" width="100" height="auto">
 
 
 <table align=center>
