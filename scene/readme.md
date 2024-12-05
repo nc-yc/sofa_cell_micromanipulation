@@ -3,10 +3,10 @@ this is a scene file for cell micromanipulation
 
   <tr align=center>
     <td>
-      <img src="./scene/1.gif" alt="First GIF" style="width: 100%;"/>
+      <img src="1.gif" alt="First GIF" style="width: 100%;"/>
     </td>
     <td>
-      <img src="./scene/2.gif" alt="3 GIF" style="width: 100%;"/>
+      <img src="2.gif" alt="3 GIF" style="width: 100%;"/>
     </td>
   </tr>
 
