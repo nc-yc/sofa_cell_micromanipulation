@@ -41,7 +41,7 @@ In this directory, the structure is:
 - */ext_plugin_repo/*
   - */Geomagic*
 ##### b. Clone plugin source code
-Clone this repository into SofaTearing directory that you created in previous step.
+Clone this repository into Geomagic directory that you created in previous step.
 ##### c. CMakeList of the repository
 In order to handle this repository as one single set of external plugins, you need to write a short CMakeList.txt file in */ext_plugin_repo/* as follows:<br />
 ```
