@@ -69,7 +69,7 @@ ls -l /dev/ttyACM*
 # crw-rw---- 1 root dialout 166, 0 12月  4 21:42 /dev/ttyACM0
 sudo chmod 777 /dev/ttyACM0
 cd ~/sofa/build/bin
-sudo ./runSofa
+sudo ./runSofa robot_cell.scn
 ```
 
 ### TO DO
